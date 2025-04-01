@@ -1,6 +1,6 @@
-##Array:
-#Může do sebe napsat hodně věcí 
+## Array:
+# Může do sebe napsat hodně věcí 
 
-##Funkce:
-#Access do jednostlivých slov v array:
+## Funkce:
+# Access do jednostlivých slov v array:
 '''python
